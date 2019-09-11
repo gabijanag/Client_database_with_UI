@@ -1,0 +1,6 @@
+A program that creates "clients.db" database.
+
+User interface allows:
+- enter new clients
+- edit an existing clients
+- delete existing clients
