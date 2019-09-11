@@ -130,4 +130,3 @@ middle.pack()
 bottom.pack()
 
 mainWindow.mainloop()
-# input()
